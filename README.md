@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# agendaruby
+agenda feita em ruby em rails e postgreSQL
+>>>>>>> f261db07ecd4fb8df022fad2b44165403c965f2a
